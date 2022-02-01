@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643701487 source:e:\varga kincso\diviteetimpera6\main.cpp
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+
