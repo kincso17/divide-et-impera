@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643260823 source:e:\varga kincso\divideetimpera4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
