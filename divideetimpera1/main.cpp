@@ -18,6 +18,9 @@ int maximum(int balindex, int jobbindex,int tomb[]){
 }
 
 
+
+
+
 int main()
 {
     int tomb[5]={1,3,1,2,7};
